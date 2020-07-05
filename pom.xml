@@ -10,8 +10,8 @@
   	<packaging>pom</packaging>
 
   	<modules>
-    	<module>aemf</module> <!-- module is in a subdirectory of this project -->
-    	<module>myspa</module> <!-- module is a sibling to this project -->
+    	<module>myspa</module> <!-- module is in a subdirectory of this project -->
+    	<module>wknd</module> <!-- module is a sibling to this project -->
 		</modules>
 
 </project>
